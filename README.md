@@ -3,6 +3,8 @@ This project revolves around a comprehensive analysis of over 130k wine reviews 
 
 The data encompasses wines from a variety of countries and provides a rich corpus of text in the form of sommelier reviews. The project encapsulates the source code, datasets, and visual outputs derived from the analysis.
 
+Link to winemag-data-130k-v2.csv: https://www.dropbox.com/scl/fi/0jkmh71hdbxi5o74xyw4z/winemag-data-130k-v2.csv?rlkey=3d1pvyzz0wi82domnwch7jl0g&dl=0
+
 ## Objectives:
 1. Explore the geographical distribution and density of wine origins.
 2. Analyze vintage trends among the 130k+ wines, identifying popular production years.
